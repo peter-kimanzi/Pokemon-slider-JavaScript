@@ -21,4 +21,8 @@ btnAvancar.addEventListener("click", function () {
   mostrarCartao(cartaoAtual);
 });
 
+btnVoltar.addEventListener("click", function () {
+  if (cartaoAtual === 0) return;
+
+  esconderCartaoSelecionado();
 
