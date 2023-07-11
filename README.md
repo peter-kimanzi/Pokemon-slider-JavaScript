@@ -6,6 +6,7 @@ Pokémon slider with CSS and JavaScript
 
 * HTML
 * CSS
+* JavaScript
 
 ## Live Link
 
