@@ -10,7 +10,7 @@ Pokémon slider with CSS and JavaScript
 
 ## Live Link
 
-https://peter-kimanzi.github.io/Pok-mon-slider/
+https://peter-kimanzi.github.io/Pokemon-slider-JavaScript/
 
 ## Screenshots
 
