@@ -8,6 +8,10 @@ function esconderCartaoSelecionado() {
   cartaoSelecionado.classList.remove("selecionado");
 }
 
+function mostrarCartao(indiceCartao) {
+  cartoes[indiceCartao].classList.add("selecionado");
+}
+
 
 
 
