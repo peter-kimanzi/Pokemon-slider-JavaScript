@@ -26,3 +26,6 @@ btnVoltar.addEventListener("click", function () {
 
   esconderCartaoSelecionado();
 
+  cartaoAtual--;
+  mostrarCartao(cartaoAtual);
+});
