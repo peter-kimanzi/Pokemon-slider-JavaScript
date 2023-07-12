@@ -1,6 +1,6 @@
 # Pok-mon-slider
 
-Pokémon slider with CSS and JavaScript.
+Pokémon slider with CSS and JavaScript
 
 ## Technologies used
 
